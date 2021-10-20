@@ -1,0 +1,12 @@
+{
+  "name": "jest-symlink-resolver",
+  "version": "0.0.1",
+  "description": "a jest resolver that preserve symlinks",
+  "main": "index.js",
+  "repository": "https://github.com/missing1984/jest-symlink-resolver.git",
+  "author": "Michael Luo <mluo@splunk.com>",
+  "license": "MIT",
+  "dependencies": {
+    "resolve": "^1.20.0"
+  }
+}
